@@ -18,10 +18,12 @@ Cytometry: what does the detector measure?
 - Size, granularity, DNA content, viability …
 
 ### Data
-- 
+- Flow cytometry data for all 359 patients: http://pengqiu.gatech.edu/MLB/CSV.zip
+- Class labels: http://pengqiu.gatech.edu/MLB/AMLTraining.csv.zip
 
 ### Description
-- 
+- The datasets are from the DREAM challenge. 
+- More information about the same can be found here: https://www.synapse.org/#!Synapse:syn2887788/wiki/
 
 ### Results
 
